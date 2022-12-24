@@ -1,0 +1,4 @@
+2022-12-24 22:56:10,262 DEBUG <di_container.DIContainer object at 0x10530a800>
+2022-12-24 22:56:10,262 DEBUG {'desc': 'Python-Template', 'VERSION': 'V1.0.0', 'LOG_FOLDER': 'log', 'LOG_MSG_FILE': 'message.yml'}
+2022-12-24 22:56:10,262 DEBUG <log4py.Log4py object at 0x105a38580>
+2022-12-24 22:56:10,262 DEBUG 2022-12-24
